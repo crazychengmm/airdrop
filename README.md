@@ -2,7 +2,7 @@
 
 # 推荐参加
 ## linfinity
-币圈传奇大空翼继iota的下一个物联网项目Lifinity，已和多家上市企业深度合作，现Lifinity空投活动正在进行中，进入社群奖励即价值10美金的oken，邀请好友最高可获得2000美金的奖励
+币圈传奇大空翼继iota的下一个物联网项目Lifinity，已和多家上市企业深度合作，现Lifinity空投活动正在进行中，进入社群奖励即价值10美金的token，邀请好友最高可获得2000美金的奖励
 * [链接](https://candy.linfinity.io/profile/869f82d78a640856fe502668ff3fc1ca)
 
 ## Gift.ONE
@@ -87,20 +87,13 @@ http://www.bit698.com/
 注册就送1000枚JLL，邀请奖励无上限，6月份登录交易所，市场潜力巨大。项目异常火爆，一度被腾讯屏蔽，短短几天注册已达几万人，速度慢了就没有了。网址： http://jll.one/
 
 ##  DirectHome
-邀请: 3
-价格：1Direc=1USD
-难度：3（1-5级）
-步骤：
 1：点击链接注册账号
 https://directhome.co/users/sign_up
 2：进邮箱验证完后完成个人资料然后加电报群和关注推特就可以了（不需要去KYC）
 电报群：http://t.cn/R3zgzxK
 Twitter：http://t.cn/R3zgzx9 
 
-## Opet Foundation*0.5 （简称Opet）
-邀请: 0.5
-价格：应该不会便宜
-难度：1（1-5级）
+## Opet Foundation
 链接：http://t.me/opetairdropbot?start=E20BtSZN
 1：点击链接对话机器人
 2：加入电报群
