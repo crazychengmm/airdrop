@@ -68,6 +68,44 @@ EOS的小儿EOL注册送5千，邀请送2000
 EOS超级节点币注册送1千，邀请送3千
 * [链接](http://bit59.com/i/236679)
 
+## VSP
+0xd3f9d7f8b0a6dd663bc5dc1a2229ae845fb9e779  转0eth到这个地址 得到300vsp 
+
+## MSToken
+MST民宿通（交易所以上线）
+填写im钱包.领取100个MST价值152元！
+在币用搜索电报群加入，发验证码激活
+今天币价1.52元（非小号可查询）
+http://t.mstoken.io/
+电报https://t.me/mstoken
+
+## 比特熵
+比特熵（BitEntropie）是基于EOS公链开发的Token，我们将在EOS上线后开发DAPP供比特熵用户使用，真实应用，拒绝爱西欧，拒绝空气币。698亿Token全部免费赠送给推广用户，官方一币不留，真正去中心化。目前我们已与各大主流交易平台达成协议，多渠道流通环境和应用正在紧张设计中。
+http://www.bit698.com/
 
 ##  教链JLL
+注册就送1000枚JLL，邀请奖励无上限，6月份登录交易所，市场潜力巨大。项目异常火爆，一度被腾讯屏蔽，短短几天注册已达几万人，速度慢了就没有了。网址： http://jll.one/
 
+##  DirectHome
+邀请: 3
+价格：1Direc=1USD
+难度：3（1-5级）
+步骤：
+1：点击链接注册账号
+https://directhome.co/users/sign_up
+2：进邮箱验证完后完成个人资料然后加电报群和关注推特就可以了（不需要去KYC）
+电报群：http://t.cn/R3zgzxK
+Twitter：http://t.cn/R3zgzx9 
+
+## Opet Foundation*0.5 （简称Opet）
+邀请: 0.5
+价格：应该不会便宜
+难度：1（1-5级）
+链接：http://t.me/opetairdropbot?start=E20BtSZN
+1：点击链接对话机器人
+2：加入电报群
+3：点击第二个选项输入钱包地址，等机器人回复让你确认地址后选以第一个选项即可
+
+## Prabox
+最靠谱的糖果DAPP，百万优质糖果等你拿，下载Prabox,输入邀请码USBW，
+注册链接https://prabox.net/tpl/reg.html?i=USBW
