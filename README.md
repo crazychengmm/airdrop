@@ -7,34 +7,38 @@
 
 ## Gift.ONE
 全球最大加密货币空投组织Gift.ONE正在空投Token！
-目前1GIFT = US$0.2，注册即送100GIFT, 加入电报群送100
+目前1GIFT = US$0.2，注册即送100GIFT, 加入电报群额外送100个
 * [链接](https://gift.one/i/eEUspE)
 
 ## TOS
-注册白名单即送1000个,  使用邀请码额外送300
+注册白名单即送700个,  注册时使用邀请码额外送300
 * [链接](https://tos.link)
 * 邀请码: 763023
 
 ## MNT
 注册即送1000枚MNT, 为推广项目，现联合「空投助手」一起发起糖果空投活动
-无需科学上网加入电报群，只输入ETH地址即可免费领取
+输入ETH地址即可免费领取, 注意要关注微信公众号并且发送验证码.
 * [链接](https://token.air-drop.top/?invite=ev52jdmh&coin=mnt)
 
 ## AEO
-AEO——基于区块链的全球互助合约平台
-注册送128AEO，邀请无限制，0本金撸百万币！
 AEO是宝二爷在医疗保险领域重点布局项目，是目前最大的互助合约平台！
+注册送128AEO，邀请无限制，0本金撸百万币！
+输入ETH地址即可免费领取, 注意要关注微信公众号并且发送验证码.
 * [链接](https://candy.air-drop.top/?invite=hrziozal&coin=aeo)
 
-## NPC -- 需要下载ANDROID APP进行解锁
+## NPC 
 注册就送9000枚NPC, 糖果将在NPC上线交易所后予以兑付。（上线交易所初始价0.2元）
-NPC 项目简介：NPC是一个区块链节点提供社区，目的是为全球所有独立区块链项目提供节点资源服务。（所有去中心化的区块链项目都必须要足够的节点支撑）。而全球所有区块链项目都必须要通过NPC来购买节点服务。
+NPC总量200亿，30%免费送给注册者跟推广者。注册完成NPC为锁定状态,需要下载APP和邀请进行解锁.
 * [链接](1aau.com/i/882766146 ) 
 * 邀请码:882766146
 
-## MSToken -- 需要加入电报
-送100个MST。现在貌似可以卖了。
+## MSToken 
+MST民宿通（交易所以上线）
+填写im钱包.领取100个MST价值152元！
+搜索电报群加入，发验证码激活
+今天币价1.52元（非小号可查询）
 [链接](http://t.mstoken.io/?code=TIN9E0QB8C)
+[电报](https://t.me/mstoken)
 
 ## ETU --正在进行ICO
 Ether Universe Quiz 88枚ETU以太宇宙糖果限时空投
@@ -45,7 +49,34 @@ Ether Universe Quiz 88枚ETU以太宇宙糖果限时空投
 * [链接](https://etu.link/p/c7b38975.html)
 
 
+# 【合约空投】转0ETH到合约免费领N多空投
+BGR 7亿 
 
+60000xd6df5935cd03a768b7b9e92637a01b25e24cb709
+
+QMQ 量10亿IM包转0个ETH秒到QMQ
+
+0x4cc29dd2b01a3e0ed005c6e2deb5b3666e4c240c
+
+M24  20亿 团队50%   2500ETH钱包打0个以太到这地址，返回2500
+
+0x139d415b5fd0981fbee78d0fa503168855b34652
+
+EPCO  总量14亿 0撸3600
+
+0x636991bf69febcdd9eb1a58e11021d33d40c5660
+
+ADC8   总量1亿 0撸1000
+
+0x7d2624470429a4fa48f09206238749fbbb45eaa8
+
+PEW    总量5000万 0撸250个
+
+0xa701122c1b67220a8b6883d03c8ad67896b12466
+
+INN    总量100亿  0撸36000
+
+0xfc0d912896ea2cadfc49735f8c564809ebec593e
 
 # 其它
 ## EOZ
@@ -71,34 +102,28 @@ EOS超级节点币注册送1千，邀请送3千
 ## VSP
 0xd3f9d7f8b0a6dd663bc5dc1a2229ae845fb9e779  转0eth到这个地址 得到300vsp 
 
-## MSToken
-MST民宿通（交易所以上线）
-填写im钱包.领取100个MST价值152元！
-在币用搜索电报群加入，发验证码激活
-今天币价1.52元（非小号可查询）
-http://t.mstoken.io/
-电报https://t.me/mstoken
 
 ## 比特熵
 比特熵（BitEntropie）是基于EOS公链开发的Token，我们将在EOS上线后开发DAPP供比特熵用户使用，真实应用，拒绝爱西欧，拒绝空气币。698亿Token全部免费赠送给推广用户，官方一币不留，真正去中心化。目前我们已与各大主流交易平台达成协议，多渠道流通环境和应用正在紧张设计中。
-http://www.bit698.com/
+* [链接](http://www.bit698.com/)
 
 ##  教链JLL
-注册就送1000枚JLL，邀请奖励无上限，6月份登录交易所，市场潜力巨大。项目异常火爆，一度被腾讯屏蔽，短短几天注册已达几万人，速度慢了就没有了。网址： http://jll.one/
+注册就送1000枚JLL，邀请奖励无上限，6月份登录交易所，市场潜力巨大。项目异常火爆，一度被腾讯屏蔽，短短几天注册已达几万人，速度慢了就没有了。
+[链接](http://jll.one/)
 
 ##  DirectHome
 1：点击链接注册账号
-https://directhome.co/users/sign_up
+* [链接](https://directhome.co/users/sign_up)
 2：进邮箱验证完后完成个人资料然后加电报群和关注推特就可以了（不需要去KYC）
-电报群：http://t.cn/R3zgzxK
-Twitter：http://t.cn/R3zgzx9 
+* [电报群](http://t.cn/R3zgzxK)
+* [Twitter](http://t.cn/R3zgzx9)
 
 ## Opet Foundation
-链接：http://t.me/opetairdropbot?start=E20BtSZN
+* [链接](http://t.me/opetairdropbot?start=E20BtSZN)
 1：点击链接对话机器人
 2：加入电报群
 3：点击第二个选项输入钱包地址，等机器人回复让你确认地址后选以第一个选项即可
 
 ## Prabox
 最靠谱的糖果DAPP，百万优质糖果等你拿，下载Prabox,输入邀请码USBW，
-注册链接https://prabox.net/tpl/reg.html?i=USBW
+[链接](https://prabox.net/tpl/reg.html?i=USBW)
