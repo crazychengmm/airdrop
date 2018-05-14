@@ -78,6 +78,9 @@ INN    总量100亿  0撸36000
 
 0xfc0d912896ea2cadfc49735f8c564809ebec593e
 
+VSP
+0xd3f9d7f8b0a6dd663bc5dc1a2229ae845fb9e779  转0eth到这个地址 得到300vsp 
+
 # 其它
 ## EOZ
 注册送5000, 每个邀请送5000
@@ -93,14 +96,13 @@ EOS的小儿EOL注册送5千，邀请送2000
 
 ## EOC
 柚链EOC注册就送10000枚
-* [链接](xiguacs.cn/L/index/c/385251)
+* [链接](http://xiguacs.cn/L/index/c/385251)
 
 ## EOS超级节点币
 EOS超级节点币注册送1千，邀请送3千
 * [链接](http://bit59.com/i/236679)
 
-## VSP
-0xd3f9d7f8b0a6dd663bc5dc1a2229ae845fb9e779  转0eth到这个地址 得到300vsp 
+
 
 
 ## 比特熵
